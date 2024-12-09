@@ -1,0 +1,22 @@
+{
+  "name": "web-visitor",
+  "version": "1.0.0",
+  "description": "A Node.js application to visit websites programmatically using Puppeteer and display results via a web interface.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "puppeteer",
+    "website",
+    "automation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.0",
+    "puppeteer": "^21.3.8"
+  }
+}
